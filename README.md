@@ -14,7 +14,7 @@
 
  👯 I’m looking to collaborate on **Cool Projects**
  
- 🌱 I’m currently learning **React, Tailwind, TypeScript**
+ 🌱 I’m currently learning **Next.js, React, Tailwind, TypeScript**
  
  </div>
 
